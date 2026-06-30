@@ -56,4 +56,4 @@ actually generate and use data.
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIN-F2C811?style=flat&logo=linkedin&logoColor=black) (www.linkedin.com/in/shyam-jagani-356535141)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-jagani-356535141)
