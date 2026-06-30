@@ -41,10 +41,8 @@ actually generate and use data.
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [FireWatch — Forest Fire Detection](https://github.com/ShyamJagani/firewatch-satellite-fire-detection) | Satellite-based wildfire classifier achieving 98.97% accuracy using EfficientNetB0 CNN | Python, Deep Learning |
-| [QC Analytics Dashboard](https://github.com/ShyamJagani/quality-control-analytics) | Production-line quality trends, defect rates & compliance monitoring | Power BI, Excel |
-| [SQL Case Studies](https://github.com/ShyamJagani/sql-case-studies) | Danny Ma's 8-Week SQL Challenge — fully solved with business commentary | SQL |
-| [Google DA Capstone](https://github.com/ShyamJagani/google-da-capstone) | End-to-end case study from the Google Data Analytics certificate | Python, Tableau |
+| [Amazon India Interactive PowerBI Dashboard](https://github.com/jaganishyam/amazon-india-sales-dashboard) | An interactive product analytics dashboard built on Amazon India sales data, analyzing pricing, discounts, and customer ratings to surface actionable business insights. | PowrBI, Excel, Python|
+| [Superstore Analysis Dashboard Tableau](https://github.com/jaganishyam/tableau-superstore-analysis) | This project analyzes the Sample Superstore dataset using Tableau. The objective was to identify sales trends, profitability patterns, regional performance, and category-level insights through interactive visualizations. | Tableau, SQL, Excel, Python |
 
 ---
 
